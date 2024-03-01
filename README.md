@@ -5,11 +5,3 @@
 - 🍇 voici l'adresse de l'un de mes blogs favoris que j'aurais aimé mettre en avant au niveau performance par rapport aux statistiques <a href="http://googlemartinique.blogspot.com"> Google Martinique
 </a>
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0G284DWH3Q"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-0G284DWH3Q');
-</script>
